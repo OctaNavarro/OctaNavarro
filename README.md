@@ -14,15 +14,15 @@
 
 ```javascript
 const Technologies = {
-ProgrammingLanguage: Typescript, JavaScript.
+ProgrammingLanguage: [Typescript, JavaScript],
 FrontEnd: 
 	{
-		js: ["React", "Redux"],
+		js: ["React", "Redux"]
 	},
 BackEnd: 
 	{
-		js: ["Node", "Express"],
+		js: ["Node", "Express"]
 	},
-Databases: ["PostgreSQL", "MongoDB"],
+Databases: ["PostgreSQL", "MongoDB"]
 }
 ```
