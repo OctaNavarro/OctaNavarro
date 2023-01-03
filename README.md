@@ -4,7 +4,9 @@
 
 - ⚡  Some of my hobbies:  
     🧗‍♂️ rock climbing: where I learned how to face fear and conquer it
+
     ⚽ futbol: where I learned how to be a team player
+
     🎸 playing music: where I learned that not everything has to look useful to generate a huge impact in people
 
 - 📫 How to reach me: https://www.linkedin.com/in/octa-nav-tech/
