@@ -11,7 +11,7 @@
     🎸 playing music: where I learned that not everything has to look useful to generate a huge impact in people
 
 
-- 📫 How to reach me: https://www.linkedin.com/in/octa-nav-tech/
+- 📫 How to reach me: https://www.linkedin.com/in/octa-nav-tech/ or email: navarrooctavioa@gmail.com
 
 
 ## About me in code
